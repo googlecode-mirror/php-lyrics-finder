@@ -7,7 +7,7 @@ This is my first work that I release to public, with this PHP script, you can :
 - You can add your own lyrics plugins. 
 - Extract lyrics from popular lyrics database site. 
 - You can add to your blog/site if you know how to customize it. 
-- You can do whatever you want with this script acoording tu GNU GPL v3 license. 
+- You can do whatever you want with this script according tu GNU GPL v3 license. 
 
 Instruction :
   1. Download and extract file (unzip).
