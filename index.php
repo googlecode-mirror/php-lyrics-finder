@@ -1,6 +1,7 @@
 <?
 
-/*	PHP Lyrics Finder - Find LYRICS For YOU !
+/* 
+    PHP Lyrics Finder - Find LYRICS For YOU !
     Copyright (C) 2012  Mohd Shahril
 
     This program is free software: you can redistribute it and/or modify
