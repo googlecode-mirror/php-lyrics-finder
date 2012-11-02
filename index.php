@@ -67,7 +67,7 @@ if(isset($_REQUEST['lyrics']) && !empty($_REQUEST['lyrics'])) {
 	$class = new lyrics;
 	$class->get_result($_REQUEST['lyrics']);
 	
-	// Show credit and close php after all lyrics was execuated 
+	// Show credit and close php after all lyrics was execute 
 	credit();
 	die();
 }
